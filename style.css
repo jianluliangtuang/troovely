@@ -38,8 +38,11 @@ body {
 .navbar-text-size {
   font-size: 15px;
 }
-.Signup:hover{
+.Signup,.login:hover{
   color: rgb(204, 199, 199);
+}
+.login1:hover{
+  background-color: rgb(68, 66, 66) !important;
 }
 .title {
   color: rgba(224, 30, 55, 1);
